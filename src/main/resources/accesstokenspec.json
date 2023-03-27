@@ -1,0 +1,12 @@
+[
+	{
+		"operation": "shift",
+		"spec": {
+			"access_token": "accessToken",
+			"token_type": "tokenType",
+			"not-before-policy": "notBeforePolicy",
+			"session_state": "sessionState"
+		}
+	}
+]
+
